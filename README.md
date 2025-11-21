@@ -2,6 +2,8 @@
 
 This project is a front-end implementation of Conway’s Game of Life built with React + TypeScript + Vite
 
+Live version running: https://game-of-life-gil.netlify.app/
+
 ## Getting Started
 
 `npm install`
